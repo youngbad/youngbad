@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @youngbad
+- 👋 Hi, I’m Kuba
 - 👀 I’m interested in data analysis, processing data, BI dev, machine learning, AI, and almost everyting data related.
 - 🌱 I’m currently working with mainly RShiny, R, and python. I have a hobbyist interest in, use machine learning on unbalanced datasets and business problems.
 - 📫 How to reach me: [mail](jakubbadowski.jb@gmail.com), [LinkedIn](https://www.linkedin.com/in/jakub-badowski-957470173/).
